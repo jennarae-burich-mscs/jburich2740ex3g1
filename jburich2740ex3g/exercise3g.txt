@@ -1,0 +1,12 @@
+101
+Mark Swanson
+10.0
+20.0
+102
+Patti Weigand
+20.0
+10.0
+103
+Lyle Stelter
+30.0
+10.0
